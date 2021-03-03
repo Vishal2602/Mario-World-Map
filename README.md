@@ -2,8 +2,7 @@
 
 ## Screenshot
 
-
-
+![Alt text](https://github.com/Vishal2602/Mario-World-Map/blob/master/screenshot.png)
 
 ## Instructions
 
